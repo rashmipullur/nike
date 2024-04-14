@@ -2,6 +2,8 @@
 
 Welcome to the Nike App project! This project offers an immersive journey into Tailwind CSS while building a captivating Nike website. Whether you're a newbie or a seasoned developer, Nike App equips you with the tools to delve deep into Tailwind CSS and its seamless integration with React.js.
 
+Open your browser and visit https://nike--tailwind.vercel.app/ to explore the Nike website.
+
 ### Nike Website Components
 
 - **Complex Hero Section**: Engage users with visually stunning hero sections.
